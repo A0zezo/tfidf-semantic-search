@@ -1,0 +1,15 @@
+Python is a high-level programming language known for readable syntax.
+FastAPI is a modern web framework for building APIs with Python type hints.
+Docker packages applications and their dependencies into containers.
+A vector database stores embeddings and supports nearest neighbour search.
+Retrieval augmented generation combines a search step with a language model.
+Gradient descent minimizes a loss function by following the negative gradient.
+Convolutional neural networks are widely used for image classification.
+Pandas provides data frames for cleaning and analysing tabular data.
+Time series forecasting predicts future values from past observations.
+Cosine similarity measures the angle between two vectors.
+Transformers use self attention to model relationships between tokens.
+SQL is a language for querying relational databases.
+Overfitting happens when a model memorizes training data and fails to generalize.
+Git tracks changes to source code and supports branching and merging.
+Tokenization splits text into words or subword units before modelling.
